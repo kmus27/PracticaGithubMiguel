@@ -1,0 +1,12 @@
+ para hacer que git ignore archivo al momento de hacer un add * : 
+
+crer un archivo .gitignore
+
+agregar el siguiente codigo al archivo:
+
+# Ignoring archivo #
+####################
+
+archivo
+archivo.*
+*.archivo
